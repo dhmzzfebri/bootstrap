@@ -1,0 +1,10 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #444444;
+}
+.cen {
+  position: fixed;
+}
+.txt_fleld {
+  bottom: flex;
+}
